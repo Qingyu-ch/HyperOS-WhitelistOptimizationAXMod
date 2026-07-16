@@ -1,7 +1,7 @@
 id=KITSUNE
 name=HyperOS/MIUI移除系统电池白名单优化
-version=s1
-versionCode=4
+version=s1.1
+versionCode=6
 author=@KITSUNE @墨羽
 description=√ 模块刷入成功，HyperOS/MIUI移除系统流氓软件电池后台白名单优化，这是修改版，如果无意更新需要在github导入原版！
 axeronPlugin=12000
