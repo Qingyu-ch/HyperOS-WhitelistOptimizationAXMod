@@ -1,9 +1,0 @@
-id=KITSUNE
-name=HyperOS/MIUI移除系统电池白名单优化
-version=s1
-versionCode=4
-author=@KITSUNE @墨羽
-description=√ 模块刷入成功，HyperOS/MIUI移除系统流氓软件电池后台白名单优化\n这是修改版，如果无意更新需要在github导入原版！
-axeronPlugin=12000
-banner=image.png
-updateJson=https://raw.githubusercontent.com/Qingyu-ch/HyperOS-WhitelistOptimizationAXMod/refs/heads/main/update.json
